@@ -1,0 +1,15 @@
+#empHeader{
+    text-align: left;
+}
+
+label{
+    float: left;
+}
+
+form{
+    margin:1%;
+}
+#submitbtn
+{
+float :left;
+}
